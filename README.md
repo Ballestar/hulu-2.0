@@ -29,4 +29,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Overview
 
-Hulu Front-End Replica using Next.js, React, and Tailwind.css
+Hulu Front-End Replica using Next.js, React, and Tailwind.css. Using TMDB API to pull movie content. Hosted on Netlify
+
+Live app: https://practical-curie-0e55b9.netlify.app/
